@@ -1,0 +1,7 @@
+using System;
+using System.Windows;
+
+namespace Zweistein
+	{
+		public partial class SpreadTraderWindow : Window
+		{
