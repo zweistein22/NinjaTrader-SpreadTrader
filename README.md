@@ -21,6 +21,7 @@ To install SpreadTrader please follow these steps.
  recompile ninjascript must go through without errors.
  
  2.) Add files in the NinjaTrader 8\ subdirectories to your PC  in  ..\My Documents\NinjaTrader 8\
+ Use the same directory structure as here on github and just copy the files to the same locations to your local pc.
  Possible errors are naming conflicts, most likely a Spread indicator. Remove your conflicting scripts.
  
  3.) Read <a href="Zweistein-Spreadtrader.pdf">Zweistein-spreadtrader.pdf</a> and set up NinjaTrader 8 marketdata properly. The script works as a strategy and marketdata will only arrive when markets are open for both instruments of a leg.

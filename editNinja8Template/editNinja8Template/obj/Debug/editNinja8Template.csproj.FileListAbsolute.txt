@@ -1,0 +1,7 @@
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\bin\Debug\SpreadTraderChart.postfix
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\bin\Debug\SpreadTraderChart.prefix
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\bin\Debug\editNinja8Template.exe.config
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\bin\Debug\editNinja8Template.exe
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\bin\Debug\editNinja8Template.pdb
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\obj\Debug\editNinja8Template.exe
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\editNinja8Template\editNinja8Template\obj\Debug\editNinja8Template.pdb

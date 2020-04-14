@@ -1,0 +1,7 @@
+using System;
+using System.Windows;
+//"+DateTime.Now.ToString()
+namespace Zweistein
+\t{
+\t\tpublic partial class SpreadTraderWindow : Window
+\t\t{
